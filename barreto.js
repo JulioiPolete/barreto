@@ -13,7 +13,7 @@ button.addEventListener('click',function(){
      elemento.style.marginTop = "-150px";
      elemento.style.marginRight = "500px";
      elemento.style.radius = "20px";
-     elemento.style.backgroundImage = "url('https://media.discordapp.net/attachments/543913056057688066/1233860875631464468/WhatsApp_Image_2024-04-27_at_16.21.52.jpeg?ex=662ea1fc&is=662d507c&hm=44c19ba6421bd75ded1544a134e37df15dad7c49c8406d09c3ff20aca193d44e&=&format=webp&width=351&height=468')"
+     elemento.style.backgroundImage = "url('https://media.discordapp.net/attachments/543913056057688066/1233862282606284950/ecc7bcf0-a770-4f2d-9647-ebe6c985d52e.jpeg?ex=662ea34c&is=662d51cc&hm=d46cb636cfecc103f9235fa196e1a37df98cbd23dfd835adb75f70f80da74b0b&=&format=webp&width=351&height=468')"
      elemento.style.backgroundPosition = "15% 30%";
    
 
